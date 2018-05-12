@@ -1,0 +1,30 @@
+_repo: A-Century-in-the-Comptroller-s-Office-State-of-New-York-1797-to-1897_40531
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40531-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Roberts, James A. (James Arthur)
+    alias: Roberts, James Arthur
+    birthdate: 1847
+    deathdate: 1922
+    gutenberg_agent_id: '40677'
+    url: http://www.gutenberg.org/2009/agents/40677
+description: ''
+gutenberg_issued: '2012-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40531'
+  lccn: 02008996
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HJ'
+- !lcsh 'New York (State) -- Biography'
+- !lcsh 'Finance -- New York (State)'
+- !lcsh 'New York (State). Comptroller''s Office'
+title: A Century in the Comptroller's Office, State of New York, 1797 to 1897
+url: http://www.gutenberg.org/ebooks/40531
